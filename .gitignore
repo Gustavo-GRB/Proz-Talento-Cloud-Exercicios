@@ -1,0 +1,36 @@
+# Arquivos e diretórios de build
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Ambientes virtuais (venv, virtualenv, etc.)
+venv/
+env/
+.env/
+env.bak/
+ENV/
+
+# Arquivos de configuração de IDEs e editores
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.bak
+*.cache
+*.project
+Thumbs.db
+desktop.ini
+
+# Dependências geradas
+__pycache__/
+*.egg-info/
+dist/
+build/
