@@ -30,4 +30,4 @@ while(continuar):
     fator1 = float(input("\nDigite o primeiro número: "))
     fator2 = float(input("Digite o segundo número: "))
 
-    print("-> Resultado da operação: ", calculadora(fator1, fator2, operador))
+    print("-> Resultado da operação: ", calculadora(fator1, fator2, operador)) 
