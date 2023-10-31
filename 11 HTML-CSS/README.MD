@@ -7,3 +7,7 @@ A cidade do Recife é uma das mais famosas do Nordeste, ela possui diversos pont
 3.  Use a tag de semântica textual inline.
 
 Abuse de sua criatividade para a criação da página!
+
+## Meu screenshot do exercício proposto
+
+![Minha página](assets/images/Capture%20full%20size%20screenshot.png)
