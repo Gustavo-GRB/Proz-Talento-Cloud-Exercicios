@@ -1,9 +1,8 @@
-let numA = 4;
-let numB = 5;
-
-let operacao = `${numA} + ${numB} = ${numA + numB}
-${numA} - ${numB} = ${numA - numB}
-${numA} x ${numB} = ${numA * numB}
-${numA} / ${numB} = ${numA / numB}
-`
-console.log(operacao);
+function Operacoes(numA, numB) {
+    console.log(`${numA} + ${numB} = ${numA + numB}`)
+    console.log(`${numA} - ${numB} = ${numA - numB}`)
+    console.log(`${numA} x ${numB} = ${numA * numB}`)
+    console.log(`${numA} / ${numB} = ${numA / numB}`)
+  }
+  
+Operacoes(4, 5);
